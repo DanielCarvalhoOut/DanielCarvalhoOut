@@ -82,7 +82,6 @@
 
 ## 🏆 Certificações & Destaques
 
-- _Adicione aqui certificações, palestras ou artigos publicados — curadoria manual proposital: "conquista" exige contexto que badge automático não carrega._
 
 ## 📫 Contato
 
