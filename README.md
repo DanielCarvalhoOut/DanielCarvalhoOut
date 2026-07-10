@@ -1,97 +1,33 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  N E V E R M O R E  —  profile readme                                -->
-<!--  dark profile — github.com/DanielCarvalhoOut                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  N E V E R M O R E _ O S  —  github.com/DanielCarvalhoOut  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-</div>
+<img src="./assets/hero.svg" width="100%" alt="daniel@carvalho — terminal com corvo pixelado e informações do sistema" />
 
-```text
-                                      ┌────────────────────────────────────────────────────────────┐
-                                      │ ● ● ●           daniel@carvalho: ~ — bash            ─ □ ✕ │
-                                      ├────────────────────────────────────────────────────────────┤
-                                      │ daniel@carvalho:~$ whoami                                  │
-                                      │ Backend Developer · Redes · C/C++ — Goiânia, GO            │
-              ▄▄▄███▄                 │                                                            │
-          ▄▄█▓█▒█████▄                │ daniel@carvalho:~$ neofetch --minimal                      │
-      ▄▄▀▄██▓██▓█▒████                │   OS ........ Windows 11, Linux                            │
-       ▀▀▀█▒███▒██▓███▌               │   Host ...... Eduq Tecnologia — full stack (estágio)       │
-          ▀███▓██▓█▒███▄              │   Kernel .... Backend · Redes · C/C++                      │
-           █▒██▒█▓██▓███▄             │   Uptime .... 2 anos, 6 meses codando                      │
-           ▓██▓███▒██▒████▄           │   Shell ..... PowerShell, Bash                             │
-          ▐█▓██▒█▓███▓█▒███▄          │   IDE ....... IntelliJ IDEA, VS Code                       │
-          ▐██▒███▓██▒█▓██▓██▄         │                                                            │
-          ▐█▓███▒██▓██▓█▒████▄        │ daniel@carvalho:~$ ls skills/                              │
-           █▒██▓███▒█▓███▓████▄       │   C/  C++/  Java/  Python/  C#/                            │
-           ▓██▒█▓██▓███▒██▓████       │   HTML/  CSS/  Redes/  Cibersegurança/  IoT/               │
-           ▐██▓██▒███▓██▓█▒███▀       │                                                            │
-            █▓█▒██▓█▒███▓███▀         │ daniel@carvalho:~$ cat education.log                       │
-            ▐██▓█▒███▓█▒███▀          │   [2024→2028] PUC Goiás — Ciência da Computação            │
-             █▒██▓██▒██▓█▀            │   [out/2025]  Cisco — Intro to Cybersecurity (+5 certs)    │
-             ▄██▓█▒██▓██▀             │                                                            │
-           ▄▓█▒██▓███▒█▄              │ daniel@carvalho:~$ grep "gold" achievements.log            │
-          ▄██▓█▒█▓██▓██▓▄             │   [out/2025] 1º lugar — Hackathon III CodeCraft            │
-        ▄▒███▒███▓█▒██▒██▄            │   [nov/2024] RoboCup Brasil — voluntário de campo          │
-       ▀▀▓██▀▀▒▀██▀▓▀▀▀▀▀▀            │                                                            │
-                                      │ daniel@carvalho:~$ ./contact.sh                            │
-   "Quoth the Raven, «Nevermore.»"    │   mail ..... danielcarvalho.out@gmail.com                  │
-                                      │   lnkd ..... linkedin.com/in/dcarvalho-daniel              │
-                                      │   git ...... github.com/DanielCarvalhoOut                  │
-                                      │                                                            │
-                                      │ daniel@carvalho:~$ ▮                                       │
-                                      │                                                            │
-                                      └────────────────────────────────────────────────────────────┘
-```
+<p>
+<a href="mailto:danielcarvalho.out@gmail.com"><img src="https://img.shields.io/badge/mail-danielcarvalho.out%40gmail.com-0a0a0a?style=flat-square&labelColor=18181b&logo=gmail&logoColor=a1a1aa" alt="email" /></a>
+<a href="https://www.linkedin.com/in/dcarvalho-daniel/"><img src="https://img.shields.io/badge/linkedin-dcarvalho--daniel-0a0a0a?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=a1a1aa" alt="linkedin" /></a>
+<img src="https://img.shields.io/badge/open__to__work-backend_·_redes-0a0a0a?style=flat-square&labelColor=18181b&color=27272a" alt="open to work" />
+</p>
 
-<div align="center">
+<p>
+<img src="./assets/arsenal.svg" width="49%" alt="tecnologias" /><img src="./assets/grimoire.svg" width="49%" alt="estatísticas" />
+</p>
 
-<!-- ── badges ─────────────────────────────────────────────────────────── -->
+<!-- ── séance: atividade real ── -->
 
-![](https://img.shields.io/badge/-Nevermore-0d0208?style=for-the-badge&logo=ghost&logoColor=6b21a8)
-![](https://img.shields.io/badge/status-lurking-0d0208?style=for-the-badge&labelColor=1a0b2e&color=4c1d95)
-![](https://img.shields.io/badge/mode-dark_only-0d0208?style=for-the-badge&labelColor=1a0b2e&color=4c1d95)
-![](https://img.shields.io/badge/open_to_work-backend_·_redes-0d0208?style=for-the-badge&labelColor=1a0b2e&color=6b21a8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielCarvalhoOut&bg_color=0a0a0a&color=71717a&line=52525b&point=e4e4e7&area=true&area_color=18181b&hide_border=true" width="97%" alt="gráfico de atividade" />
+
+<img src="./assets/milestones.svg" width="100%" alt="linha do tempo" />
+
+<br/><br/>
+
+<sub><i>Deep into that darkness peering... — "Quoth the Raven, «Nevermore.»"</i> 🐦‍⬛</sub>
 
 <br/>
 
-<!-- ── arsenal ────────────────────────────────────────────────────────── -->
-
-### ⛧ &nbsp;A R S E N A L&nbsp; ⛧
-
-![](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=8b5cf6)
-![](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=8b5cf6)
-![](https://img.shields.io/badge/C%2B%2B-0d0208?style=flat-square&logo=cplusplus&logoColor=8b5cf6)
-![](https://img.shields.io/badge/C%23-0d0208?style=flat-square&logo=dotnet&logoColor=8b5cf6)
-![](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=8b5cf6)
-![](https://img.shields.io/badge/HTML5-0d0208?style=flat-square&logo=html5&logoColor=8b5cf6)
-![](https://img.shields.io/badge/Git-0d0208?style=flat-square&logo=git&logoColor=8b5cf6)
-
-<br/>
-
-<!-- ── grimoire (stats) ───────────────────────────────────────────────── -->
-
-### ⛧ &nbsp;G R I M O I R E&nbsp; ⛧
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielCarvalhoOut&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0208&icon_color=6b21a8&title_color=8b5cf6&text_color=71717a" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarvalhoOut&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0208&title_color=8b5cf6&text_color=71717a" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCarvalhoOut&theme=midnight-purple&hide_border=true&background=0d0208&ring=6b21a8&fire=8b5cf6&currStreakLabel=8b5cf6" height="165" />
-
-<br/><br/>
-
-<!-- ── séance (contribution graph) ────────────────────────────────────── -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielCarvalhoOut&bg_color=0d0208&color=71717a&line=6b21a8&point=8b5cf6&area=true&area_color=1a0b2e&hide_border=true" width="94%" />
-
-<br/><br/>
-
-<!-- ── footer ─────────────────────────────────────────────────────────── -->
-
-<sub><i>Deep into that darkness peering... 🐦‍⬛</i></sub>
-
-<img src="https://komarev.com/ghpvc/?username=DanielCarvalhoOut&color=4c1d95&style=flat-square&label=souls+watching" />
+<img src="https://komarev.com/ghpvc/?username=DanielCarvalhoOut&color=27272a&style=flat-square&label=souls+watching" alt="visitas" />
 
 </div>
