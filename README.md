@@ -1,110 +1,100 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Daniel Carvalho" src="assets/banner-dark.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=async%2Fawait+%7C+SOLID+%7C+Clean+Architecture;OWASP+Top+10+%7C+IDOR+%7C+Injection+Prevention;RxJS+%7C+OnPush+%7C+Strict+Mode&font=Fira+Code&center=true&size=16&color=FB923C&vCenter=true&width=650&height=35&pause=2000">
-  <img alt="foco técnico" src="https://readme-typing-svg.demolab.com/?lines=async%2Fawait+%7C+SOLID+%7C+Clean+Architecture;OWASP+Top+10+%7C+IDOR+%7C+Injection+Prevention;RxJS+%7C+OnPush+%7C+Strict+Mode&font=Fira+Code&center=true&size=16&color=F97316&vCenter=true&width=650&height=35&pause=2000">
-</picture>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dcarvalho--daniel-FB923C?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/dcarvalho-daniel)
-[![Pro](https://img.shields.io/badge/GitHub-PRO-27313F?style=for-the-badge&logo=github&logoColor=FB923C)](https://github.com/DanielCarvalhoOut)
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  N E V E R M O R E  —  profile readme                                -->
+<!--  dark profile — github.com/DanielCarvalhoOut                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 </div>
 
-<br>
-
-## 🛠 Stack
+```text
+                                      ┌──────────────────────────────────────────────────────────┐
+                                      │              d a n i e l @ c a r v a l h o               │
+                                      ├──────────────────────────────────────────────────────────┤
+                                      │                                                          │
+                                      │  OS ................................. Windows 11, Linux  │
+                                      │  Host .......... Eduq Tecnologia — full stack (estágio)  │
+                                      │  Kernel ................... Backend Dev · Redes · C/C++  │
+                                      │  Uptime ....................... 2 anos, 6 meses codando  │
+                                      │  Shell ............................... PowerShell, Bash  │
+                                      │  IDE ........................... IntelliJ IDEA, VS Code  │
+              ░░▒▒░                   │  Location ........................ Goiânia — GO, Brasil  │
+           ░▒▓█████▄                  │                                                          │
+         ░▓████████▓                  │  Languages.Programming ....... C, C++, Java, Python, C#  │
+      ◄▬▓███●███████▄                 │  Languages.Markup ............... HTML, CSS, JSON, YAML  │
+         ▀███████████▓▄               │  Languages.Real .................... Português, English  │
+           ▀███████████▓▄             │                                                          │
+             ▀████████████▓▄          │  Interests.Software ............. Redes, Cibersegurança  │
+               ▀█████████████▓        │  Interests.Hardware ........... IoT, sensores vestíveis  │
+                 ██████▓▓██████▓      │                                                          │
+                 ▓████▓   ▀████▓      ├──[ education ]───────────────────────────────────────────┤
+                  ▓███     ▓██▓       │                                                          │
+                   ██▌      ██        │  University ......... PUC Goiás — Ciência da Computação  │
+                  ▄█▀      ▄█▀        │  Class .................................... 2024 → 2028  │
+    ══════════════╩════════╩═══════   │  Certs ......................... Cisco Cybersecurity +5  │
+                                      │                                                          │
+      "Quoth the Raven,               ├──[ achievements ]────────────────────────────────────────┤
+            «Nevermore.»"             │                                                          │
+                                      │  Hackathon ............ 1º lugar — III CodeCraft (2025)  │
+                                      │  Volunteer ...................... RoboCup Brasil (2024)  │
+                                      │                                                          │
+                                      ├──[ contact ]─────────────────────────────────────────────┤
+                                      │                                                          │
+                                      │  Email ................... danielcarvalho.out@gmail.com  │
+                                      │  LinkedIn ............ linkedin.com/in/dcarvalho-daniel  │
+                                      │  GitHub .................. github.com/DanielCarvalhoOut  │
+                                      │                                                          │
+                                      └──────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-FB923C?style=for-the-badge&logo=csharp&logoColor=0D0D0D)
-![.NET](https://img.shields.io/badge/.NET-FB923C?style=for-the-badge&logo=dotnet&logoColor=0D0D0D)
-![Angular](https://img.shields.io/badge/Angular-FB923C?style=for-the-badge&logo=angular&logoColor=0D0D0D)
-![TypeScript](https://img.shields.io/badge/TypeScript-27313F?style=for-the-badge&logo=typescript&logoColor=F8FAFC)
-![RxJS](https://img.shields.io/badge/RxJS-27313F?style=for-the-badge&logo=reactivex&logoColor=F8FAFC)
-![OWASP](https://img.shields.io/badge/OWASP-DC2626?style=for-the-badge&logo=owasp&logoColor=F8FAFC)
+<!-- ── badges ─────────────────────────────────────────────────────────── -->
+
+![](https://img.shields.io/badge/-Nevermore-0d0208?style=for-the-badge&logo=ghost&logoColor=6b21a8)
+![](https://img.shields.io/badge/status-lurking-0d0208?style=for-the-badge&labelColor=1a0b2e&color=4c1d95)
+![](https://img.shields.io/badge/mode-dark_only-0d0208?style=for-the-badge&labelColor=1a0b2e&color=4c1d95)
+![](https://img.shields.io/badge/open_to_work-backend_·_redes-0d0208?style=for-the-badge&labelColor=1a0b2e&color=6b21a8)
+
+<br/>
+
+<!-- ── arsenal ────────────────────────────────────────────────────────── -->
+
+### ⛧ &nbsp;A R S E N A L&nbsp; ⛧
+
+![](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=8b5cf6)
+![](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=8b5cf6)
+![](https://img.shields.io/badge/C%2B%2B-0d0208?style=flat-square&logo=cplusplus&logoColor=8b5cf6)
+![](https://img.shields.io/badge/C%23-0d0208?style=flat-square&logo=dotnet&logoColor=8b5cf6)
+![](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=8b5cf6)
+![](https://img.shields.io/badge/HTML5-0d0208?style=flat-square&logo=html5&logoColor=8b5cf6)
+![](https://img.shields.io/badge/Git-0d0208?style=flat-square&logo=git&logoColor=8b5cf6)
+
+<br/>
+
+<!-- ── grimoire (stats) ───────────────────────────────────────────────── -->
+
+### ⛧ &nbsp;G R I M O I R E&nbsp; ⛧
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielCarvalhoOut&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0208&icon_color=6b21a8&title_color=8b5cf6&text_color=71717a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarvalhoOut&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0208&title_color=8b5cf6&text_color=71717a" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCarvalhoOut&theme=midnight-purple&hide_border=true&background=0d0208&ring=6b21a8&fire=8b5cf6&currStreakLabel=8b5cf6" height="165" />
+
+<br/><br/>
+
+<!-- ── séance (contribution graph) ────────────────────────────────────── -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielCarvalhoOut&bg_color=0d0208&color=71717a&line=6b21a8&point=8b5cf6&area=true&area_color=1a0b2e&hide_border=true" width="94%" />
+
+<br/><br/>
+
+<!-- ── footer ─────────────────────────────────────────────────────────── -->
+
+<sub><i>Deep into that darkness peering... 🐦‍⬛</i></sub>
+
+<img src="https://komarev.com/ghpvc/?username=DanielCarvalhoOut&color=4c1d95&style=flat-square&label=souls+watching" />
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DanielCarvalhoOut&show_icons=true&hide_border=true&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC&icon_color=FB923C">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DanielCarvalhoOut&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729&icon_color=F97316">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarvalhoOut&layout=compact&hide_border=true&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC">
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarvalhoOut&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729">
-</picture>
-
-</div>
-
-## 🚦 Security Signals
-
-| | Item |
-|---|---|
-| 🟢 | Scan de dependências (SCA) ativo nos repositórios principais |
-| 🟡 | Repositórios legados de estudo (`Editor-de-texto`, `P-gina-html`) pendentes de revisão de headers/inputs |
-| 🔴 | 0 secrets expostos em histórico de commits (gitleaks) |
-
-<sub>Cores mapeadas 1:1 com `--success #22C55E`, `--warning #F59E0B`, `--destructive #EF4444` do design system.</sub>
-
-## 📌 Repositórios em destaque
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Metodos-C-sharp&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC&hide_border=true">
-  <img alt="Metodos-C-sharp" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Metodos-C-sharp&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Estrutura_de_Dados&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC&hide_border=true">
-  <img alt="Estrutura_de_Dados" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Estrutura_de_Dados&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Projeto-de-Academia&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC&hide_border=true">
-  <img alt="Projeto-de-Academia" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=Projeto-de-Academia&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=beecrowd&bg_color=151D2B&title_color=FB923C&text_color=F8FAFC&hide_border=true">
-  <img alt="beecrowd" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarvalhoOut&repo=beecrowd&bg_color=FFFFFF&title_color=C2570C&text_color=0F1729&hide_border=true">
-</picture>
-
-</div>
-
-## 🏆 Certificações & Destaques
-
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FB923C?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/dcarvalho-daniel)
-[![Email](https://img.shields.io/badge/Email-27313F?style=flat-square&logo=gmail&logoColor=F8FAFC)](mailto:seu@email.com)
-
----
-
-<details>
-<summary><b>🎨 Design tokens (referência)</b></summary>
-
-| Token | Light | Dark | Uso |
-|---|---|---|---|
-| `--primary` | `#F97316` | `#FB923C` | CTAs, badges, acentos |
-| `--foreground` | `#0F1729` | `#F8FAFC` | Texto principal |
-| `--card` | `#FFFFFF` | `#151D2B` | Fundo de cards/stats |
-| `--border` | `#E2E8F0` | `#27313F` | Bordas, grid do banner |
-| `--success` | `#22C55E` | `#4ADE80` | Sinais positivos |
-| `--warning` | `#F59E0B` | `#FBBB2F`* | Alertas |
-| `--destructive` | `#EF4444`† | `#DC2626` | Erros/riscos |
-| `--nav-accent` | `#C2570C` | `#FDBA74` | Links ativos |
-
-†Corrigido a partir do HSL declarado (`0 84% 60%` → `#EF4444`, não `#F87171`).
-\*Preenchido — dark mode original não definia `--warning`; luminosidade ajustada +8% seguindo o padrão dos demais tokens light→dark.
-
-</details>
