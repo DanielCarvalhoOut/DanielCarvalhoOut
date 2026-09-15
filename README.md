@@ -10,22 +10,30 @@
 </div>
 
 ```console
-daniel@dev-box:~$ neofetch --stdout
-          .:codxxxxdoc:.
-       .lkO0KKKKKKK0Okl.            daniel@dev-box
-     .d0K0xoc:'..':coxK0K0d.        --------------
-    c0Kd:.              .:dK0c      OS:        Debian GNU/Linux · Arch x86_64
-   d0O'                    'O0d     Host:      Systems & Backend Engineering
-  l00.                      .00l    Kernel:    Linux 6.x-generic
- .O0:                        :0O.   Uptime:    CS Student @ PUC-GO (2024–2028)
- '00.                        .00'   Shell:     zsh 5.9 (x86_64-pc-linux-gnu)
- .O0:                        :0O.   Status:    active · intern @ systems dev
-  l00.                      .00l    Stack:     C#, .NET, TypeScript, SQL, C/C++
-   d0O'                    'O0d     Network:   TCP/IP, Sockets, Packet Analysis
-    c0Kd:.              .:dK0c      Runtime:   Docker, PostgreSQL, EF Core
-     'd0K0xoc:,..,:coxK0K0d'        Memory:    16GiB / 32GiB (optimized)
-       'lkO0KKKKKKK0Okl'
-          ':codxxxxdoc:'
+daniel@dev-box:~$ ./gargantua --render
+                           ##@@@@@##
+                         #@@@@   @@@@#
+                   .....#@@         @@#.....
+    .....:::::::++++++++#@           @#++++++++:::::::.....
+ ...:::++++++++++  .::  #@@         @@#  ::.  ++++++++++:::...
+ ...***##########  ..:== #@@@     @@@# ==:..  ##########***...
+    .....*******###############################*******.....
+                   .........................
+                         ...:::::::...
+
+daniel@dev-box:~$ neofetch
+daniel@dev-box
+--------------
+OS:        Debian GNU/Linux · Arch x86_64
+Host:      Systems & Backend Engineering
+Kernel:    Linux 6.x-generic
+Uptime:    CS Student @ PUC-GO (2024–2028)
+Shell:     zsh 5.9 (x86_64-pc-linux-gnu)
+Status:    active · intern @ systems dev
+Stack:     C#, .NET, TypeScript, SQL, C/C++
+Network:   TCP/IP, Sockets, Packet Analysis
+Runtime:   Docker, PostgreSQL, EF Core
+Memory:    16GiB / 32GiB (optimized)
 ```
 
 ```ini
