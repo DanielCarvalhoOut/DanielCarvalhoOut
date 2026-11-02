@@ -1,77 +1,36 @@
-<div align="center">
+<!-- ════════════════════════════════════════════════════════ -->
+<!--  Daniel Carvalho — github.com/DanielCarvalhoOut           -->
+<!-- ════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════ -->
-<!--  D E V - B O X  —  github.com/DanielCarvalhoOut          -->
-<!-- ══════════════════════════════════ -->
+<table>
+<tr>
+<td valign="top" width="45%">
 
-<a href="mailto:danielcarvalho.out@gmail.com"><img src="https://img.shields.io/badge/mail-danielcarvalho.out%40gmail.com-0a0a0a?style=flat-square&labelColor=18181b&logo=gmail&logoColor=a1a1aa" alt="email" /></a>
-<a href="https://www.linkedin.com/in/dcarvalho-daniel/"><img src="https://img.shields.io/badge/linkedin-dcarvalho--daniel-0a0a0a?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=a1a1aa" alt="linkedin" /></a>
+<img src="./assets/napoleon.png" width="100%" alt="Daniel Carvalho — retrato em ASCII ao pôr do sol" />
 
-<img src="./assets/napoleon.png" width="92%" alt="daniel carvalho — retrato em ASCII ao pôr do sol, pose pensativa à beira-mar" />
+</td>
+<td valign="top" width="55%">
 
-<sub><code>daniel@dev-box:~$ feh ~/portraits/napoleon_at_dusk.ascii</code></sub>
+### Daniel Carvalho
+`Backend & Systems Engineer`
 
-</div>
+Computer Science @ PUC-GO · 2024–2028
 
-```console
-daniel@dev-box:~$ neofetch
-daniel@dev-box
---------------
-OS:        Debian GNU/Linux · Arch x86_64
-Host:      Systems & Backend Engineering
-Kernel:    Linux 6.x-generic
-Uptime:    CS Student @ PUC-GO (2024–2028)
-Shell:     zsh 5.9 (x86_64-pc-linux-gnu)
-Status:    active · intern @ systems dev
-Stack:     C#, .NET, TypeScript, SQL, C/C++
-Network:   TCP/IP, Sockets, Packet Analysis
-Runtime:   Docker, PostgreSQL, EF Core
-Memory:    16GiB / 32GiB (optimized)
-```
+> *“Victory belongs to the most persevering.”* — Napoleon
 
-```ini
-daniel@dev-box:~$ cat /etc/environment.d/stack.conf
+I build and study backend systems from the top down — from .NET APIs
+down to sockets, packets, and what runs beneath the OS.
+Calm, deliberate, long game.
 
-# CORE LANGUAGES & RUNTIMES
-RUNTIME_PRIMARY = ["C#", ".NET Core / ASP.NET Core", "TypeScript"]
-RUNTIME_SYSTEMS = ["C", "C++", "x86_64 Assembly"]
-SCRIPTING       = ["Python", "Bash / Shell"]
+**Stack** &nbsp;·&nbsp; C# &nbsp;&nbsp; .NET &nbsp;&nbsp; TypeScript &nbsp;&nbsp; SQL &nbsp;&nbsp; C / C++
 
-# PERSISTENCE & DATA
-ENGINES         = ["PostgreSQL", "MySQL", "Entity Framework Core"]
-TOOLING         = ["DBeaver", "Database Migrations", "Query Optimization"]
+**Infra** &nbsp;·&nbsp; PostgreSQL &nbsp;&nbsp; Docker &nbsp;&nbsp; Git
 
-# INFRASTRUCTURE, NETWORKING & DEV TOOLS
-CONTAINERS      = ["Docker"]
-NETWORKING      = ["TCP/IP", "Wireshark", "Scapy", "Linux Sockets", "Packet Tracer"]
-VERSION_CONTROL = ["Git", "GitHub Actions"]
-```
+**Networking** &nbsp;·&nbsp; TCP/IP &nbsp;&nbsp; Sockets &nbsp;&nbsp; Wireshark &nbsp;&nbsp; Scapy
 
-```console
-daniel@dev-box:~$ systemctl status engineering-profile.service
-● engineering-profile.service - Backend, Systems & Low-Level Development
-     Loaded: loaded (/etc/systemd/system/engineering-profile.service; enabled)
-     Active: active (running) since Jan 2024; Computer Science B.S. track
-   Main PID: 1024 (core-engine)
-      Tasks: 4 (academic-research, software-architecture, system-internals, web-apis)
-        Mem: high-throughput memory management & modular design patterns
-```
+<a href="mailto:danielcarvalho.out@gmail.com"><img src="https://img.shields.io/badge/mail-0a0a0a?style=flat-square&labelColor=18181b&logo=gmail&logoColor=a1a1aa" alt="email" /></a>
+<a href="https://www.linkedin.com/in/dcarvalho-daniel/"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=a1a1aa" alt="linkedin" /></a>
 
-```console
-daniel@dev-box:~$ git log --graph --oneline --decorate -n 5
-* e3a1f9c (HEAD -> main) feat: internship @ systems development
-* b7c42d0 feat: networking deep-dive — TCP/IP, sockets, packet analysis
-* 4f8e1a5 feat: backend APIs with .NET Core / ASP.NET Core
-* 9d2c6b3 feat: low-level foundations — C, C++, assembly
-* 0a1b2c3 init: Computer Science B.S. @ PUC-GO
-```
-
-```console
-daniel@dev-box:~$ echo "thanks for the visit" && exit 0
-```
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DanielCarvalhoOut&color=22c55e&style=flat-square&label=terminal_sessions" alt="visitas" />
-
-</div>
+</td>
+</tr>
+</table>
