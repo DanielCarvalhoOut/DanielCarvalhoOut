@@ -7,20 +7,13 @@
 <a href="mailto:danielcarvalho.out@gmail.com"><img src="https://img.shields.io/badge/mail-danielcarvalho.out%40gmail.com-0a0a0a?style=flat-square&labelColor=18181b&logo=gmail&logoColor=a1a1aa" alt="email" /></a>
 <a href="https://www.linkedin.com/in/dcarvalho-daniel/"><img src="https://img.shields.io/badge/linkedin-dcarvalho--daniel-0a0a0a?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=a1a1aa" alt="linkedin" /></a>
 
+<img src="./assets/napoleon.png" width="92%" alt="daniel carvalho — retrato em ASCII ao pôr do sol, pose pensativa à beira-mar" />
+
+<sub><code>daniel@dev-box:~$ feh ~/portraits/napoleon_at_dusk.ascii</code></sub>
+
 </div>
 
 ```console
-daniel@dev-box:~$ ./gargantua --render
-                           ##@@@@@##
-                         #@@@@   @@@@#
-                   .....#@@         @@#.....
-    .....:::::::++++++++#@           @#++++++++:::::::.....
- ...:::++++++++++  .::  #@@         @@#  ::.  ++++++++++:::...
- ...***##########  ..:== #@@@     @@@# ==:..  ##########***...
-    .....*******###############################*******.....
-                   .........................
-                         ...:::::::...
-
 daniel@dev-box:~$ neofetch
 daniel@dev-box
 --------------
