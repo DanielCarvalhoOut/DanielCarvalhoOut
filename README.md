@@ -6,7 +6,7 @@
 <tr>
 <td valign="middle" width="47%">
 
-<img src="./assets/napoleon.png" width="100%" alt="Daniel Carvalho — ASCII portrait, pensive pose at dusk" />
+<img src="./assets/portrait-dusk.png" width="100%" alt="Daniel Carvalho — ASCII portrait, pensive pose at dusk" />
 
 </td>
 <td valign="top" width="53%">
